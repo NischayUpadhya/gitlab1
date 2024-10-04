@@ -1,0 +1,12 @@
+abc
+my name is nischay
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+aaaabbbb
+ccccdddd
+=======
+aaaabbbb
+>>>>>>> Stashed changes
+=======
+aaaabbbb
+>>>>>>> Stashed changes
